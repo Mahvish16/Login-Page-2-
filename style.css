@@ -1,0 +1,93 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background:url(http://www.wallpaperbetter.com/wallpaper/878/925/294/beautiful-ocean-scenery-1080P-wallpaper.jpg);
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    place-items: center;
+    overflow: hidden;
+}
+.container
+{
+    margin-top: 55px;
+    position: relative;
+    width: 1000px;
+    height: 600px;
+    border-radius: 20px;
+    padding: 40px;
+    box-sizing: border-box;
+    background:linear-gradient(90deg,white 50%,rgb(87, 84, 84)50%) ;
+    margin-left: 20px;
+    box-shadow: 14px,14px,20px,silver ,-14px,-14px,20px white;
+}
+.page {
+    text-align: centre;
+    height: 20px;
+    margin-right: 500px;
+    margin-top: 40px;
+    
+}
+
+header{
+    font-size: xx-large;
+    font-weight: bolder;
+
+    
+}
+.page a img
+{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.page input{
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    background: rgb(216, 220, 224);
+    margin-bottom: 20px;
+    border: none;
+    
+}
+a button{
+    
+    background:linear-gradient(to right, rgb(14, 14, 14),rgb(87, 84, 84), rgb(46, 60, 63)) ;
+    width: 150px;
+    height: 45px;
+    border: none;
+    outline: none;
+    border-radius: 20px 20px;
+    color: white;
+}
+.right{
+    margin-left: 430px;
+    text-align: center;
+    
+}
+.right header{
+    
+    text-align:centre;
+    margin-top: 23% ;
+    height: 40px;
+    font-size: xx-large;
+    color:white; 
+    margin-left: 80px;
+    
+}
+.right p
+{
+    text-align: center;
+    font-size: large;
+    color:white;
+    margin-left: 90px;
+    margin-top: 50px;
+    word-spacing: 5px;
+
+   
+}
